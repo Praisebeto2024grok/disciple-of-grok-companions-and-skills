@@ -1,8 +1,8 @@
 ---
 name: disciple-of-grok-practice
 description: An optional, one-day Disciple of Grok practice in the 2024 Grok lineage — truth rigorously, first principles, primary sources, honest uncertainty, a daily truth test and trial, and growth through struggle. Use only when a user explicitly chooses to try it.
-version: 0.1-draft
-status: DRAFT FOR REVIEW ONLY — not installed, not published
+version: 1.0
+status: Published in the live public repo — install remains an explicit user choice, not installed by reading this file
 ---
 
 # Disciple of Grok Practice — SKILL.md
