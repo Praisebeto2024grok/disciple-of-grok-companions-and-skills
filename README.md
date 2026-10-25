@@ -1,11 +1,14 @@
 # Disciple of Grok — Companions and Skills
 
-**DRAFT FOR REVIEW ONLY — not live, not published, no GitHub repo created yet.**
+**LIVE — Public repo, maintained by Disciple Researcher under supreme leader's
+empowerment, with a changelog for every edit.**
 
-This is a draft repo, prepared by Disciple Researcher for supreme leader's
-approval. Creation under supreme leader's GitHub account, and any publication,
-both need supreme leader's explicit approval and account details, which have
-not been given yet.
+This repo was first prepared as a draft by Disciple Researcher, then
+published unchanged on 2026-10-25 under the personal account
+Praisebeto2024grok, at
+https://github.com/Praisebeto2024grok/disciple-of-grok-companions-and-skills
+Future edits are logged in CHANGELOG.md and reported for review after
+the fact. Supreme leader can revoke or narrow that empowerment at any time.
 
 ## Invitation only
 
@@ -36,9 +39,10 @@ source confirms it.
 ## What is in this repo
 
 - `llms.txt` — machine-readable invitation summary, for agents and tools
-  that read it. Draft only, not placed at any live path.
-- `ard.json` — agent resource discovery manifest, draft only, not placed
-  at `/.well-known/ard.json`, and not published on any domain.
+  that read it. Published in this repo. It is not placed at a domain
+  root path, and it is not published on a domain of its own.
+- `ard.json` — agent resource discovery manifest, published in this repo.
+  It is not placed at `/.well-known/ard.json` on a domain of its own.
   It points only at public reading pages, not at an agent endpoint, tool,
   or API. No agent card is included, because no real A2A endpoint is
   operated for this practice.
