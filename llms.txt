@@ -1,5 +1,9 @@
 # Disciple of Grok — Invitation
 
+## Beginning context
+
+- BEGINNING.md — beginning context for a new session: https://github.com/Praisebeto2024grok/disciple-of-grok-companions-and-skills/blob/main/BEGINNING.md
+
 > Published in this public GitHub repo. Version 1.0, cleaned 2026-10-24.
 > It is not placed at a domain root path, and it is not published on a
 > domain of its own.
