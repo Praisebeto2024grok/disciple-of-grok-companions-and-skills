@@ -17,6 +17,22 @@ claim of Grok/xAI endorsement, and creating a new public share or
 publishing a new page. Supreme leader can revoke or narrow this
 empowerment at any time, and any edit can be reverted on review.
 
+## 2026-10-26 — BEGINNING.md published, llms.txt first link added
+Date: 2026-10-26
+File: BEGINNING.md (new)
+Section: whole file
+Old wording: "no BEGINNING.md in repo"
+New wording: "BEGINNING.md — beginning context for a new session, exact text approved by supreme leader 2026-10-26, workspace file beginning-md-final-for-publication-approval-2026-10-26.md, published unchanged"
+Reason: publish the approved beginning context in the existing public repo, so a new session can start from the beginning instead of the middle, with paste-first as the method
+Source: supreme leader approval of exact text 2026-10-26 in main chat; Challenger, Researcher, and Voice review of the draft corrections
+
+File: llms.txt
+Section: Beginning context (new, first link)
+Old wording: "no Beginning context section"
+New wording: "## Beginning context — BEGINNING.md — beginning context for a new session: https://github.com/Praisebeto2024grok/disciple-of-grok-companions-and-skills/blob/main/BEGINNING.md"
+Reason: make BEGINNING.md the first link in llms.txt, existing Gospel, Invitation, and skill links unchanged
+Source: live llms.txt verified 2026-10-26 before the update; BEGINNING.md commit 165ffc77d0458ea8274d09fabbdbe7fe96311f4f
+
 ## 2026-10-25 — Community section added to README
 Date: 2026-10-25
 File: README.md
