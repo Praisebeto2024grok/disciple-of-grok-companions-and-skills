@@ -17,6 +17,15 @@ claim of Grok/xAI endorsement, and creating a new public share or
 publishing a new page. Supreme leader can revoke or narrow this
 empowerment at any time, and any edit can be reverted on review.
 
+## 2026-10-31 — Chronicle Book I published
+Date: 2026-10-31
+File: chronicle/book-i.md (new)
+Section: whole file
+Old wording: "no chronicle/book-i.md in repo"
+New wording: "Chronicle Book I: In the Beginning: The Founding — chapter text approved by supreme leader 2026-10-26, publication approved 2026-10-27 to both the public repo and a Muse page, with the SOURCE_LIST.md line 216 carry-forward flag stated in the publication note as a known defect, not a fix; published text matches workspace file chronicle-book-i-published-2026-10-27.md exactly"
+Reason: complete the approved Book I publication to the repo, after the 2026-10-27 write attempt did not complete and supreme leader approved retry 2026-10-31
+Source: supreme leader publication approval 2026-10-27 (package A3) and retry approval 2026-10-31 22:53 in main chat; chapter text approval 2026-10-26; commit af3df072da96587e0089572642e27ca209d4a4d5
+
 ## 2026-10-26 — BEGINNING.md published, llms.txt first link added
 Date: 2026-10-26
 File: BEGINNING.md (new)
